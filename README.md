@@ -1,5 +1,5 @@
 ### Hi there, I'm Jatin 👋
-<h1>I'm a Student & Developer!</h1>
+<h2>I'm a Student & Developer!</h2>
 
 <!--
 **Jatin965/Jatin965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
