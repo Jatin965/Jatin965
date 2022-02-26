@@ -2,7 +2,7 @@
 
 ### About Me 
 
-I like to mix things up from game engine development to making operating system from scratch Life is too boring to stick to the same old formula.
+I like to mix things up from Web Development to UI/UX Designing, Graphic Designing from scratch. I'm also thinking about trying Dev Ops and Game Development.
 
 **Technologies i like working with**
 
