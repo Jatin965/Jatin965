@@ -15,6 +15,9 @@ I like to mix things up from game engine development to making operating system 
 <img align="left" alt="django" src="images/django.png" height="50px" style="margin: 0 5px">
 <img align="left" alt="drf" src="images/drf.png" height="50px" style="margin: 0 5px">
 
+<br/>
+<br/>
+<br/>
 ### More About Me  
 
 <!--- **🔭 I’m currently working on :**  
