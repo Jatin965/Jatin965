@@ -6,14 +6,14 @@ I like to mix things up from game engine development to making operating system 
 
 **Technologies i like working with**
 
-<img align="left" alt="react" src="images/logos/react.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="next.js" src="images/logos/nextjs.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="redux" src="images/logos/redux.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="node.js" src="images/logos/nodejs.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="typescript" src="images/logos/typescript.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/logos/python.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="django" src="images/logos/django.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="drf" src="images/logos/drf.png" height="50px" style="margin: 0 5px">
+<img align="left" alt="react" src="images/react.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="next.js" src="images/nextjs.png" height="50px" style="margin: 0 5px">
+<img align="left" alt="redux" src="images/redux.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="node.js" src="images/nodejs.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="typescript" src="images/typescript.png" height="50px" style="margin: 0 5px">
+<img align="left" alt="python" src="images/python.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="django" src="images/django.png" height="50px" style="margin: 0 5px">
+<img align="left" alt="drf" src="images/drf.png" height="50px" style="margin: 0 5px">
 
 ### More About Me  
 
