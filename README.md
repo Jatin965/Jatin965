@@ -17,29 +17,30 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="angular-js" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux.svg" alt="svelte" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next-js" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux-action.svg" alt="redux" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="Windi CSS" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="django" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="30" height="30" />
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cpp.svg" alt=".NET" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cpp.svg" alt="c++" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="python" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" alt="nginx" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" alt="jupyter" width="30" height="30" />
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cucumber.svg" alt="cucumber" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="netlify" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg" alt="circleci" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg" alt="firebase" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="30" height="30" />
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="30" height="30" />
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terraform.svg" alt="Terraform" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="figma" width="30" height="30" />
 </p>
 
 <br/>
