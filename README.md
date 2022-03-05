@@ -6,15 +6,6 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 
 ## Technologies & Tools
 
-<!-- <img align="left" alt="react" src="images/react.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="next.js" src="images/nextjs.jpg" height="50px" style="margin: 0 5px">
-<img align="left" alt="redux" src="images/redux.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="django" src="images/django.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="drf" src="images/drf.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="node.js" src="images/nodejs.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="typescript" src="images/typescript.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/python.svg" height="50px" style="margin: 0 5px"> -->
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next-js" width="40" height="40" />
