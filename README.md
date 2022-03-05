@@ -43,8 +43,6 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ### More About Me  
 
