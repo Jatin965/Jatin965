@@ -4,21 +4,21 @@
 
 I like to mix things up from Web Development to UI/UX Designing, Graphic Designing from scratch. I'm also thinking about trying Dev Ops and Game Development.
 
-**Technologies i like working with**
+##Technologies & Tools
 
-<img align="left" alt="react" src="images/react.svg" height="50px" style="margin: 0 5px">
+<!-- <img align="left" alt="react" src="images/react.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="next.js" src="images/nextjs.jpg" height="50px" style="margin: 0 5px">
 <img align="left" alt="redux" src="images/redux.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="django" src="images/django.png" height="50px" style="margin: 0 5px">
 <img align="left" alt="drf" src="images/drf.png" height="50px" style="margin: 0 5px">
 <img align="left" alt="node.js" src="images/nodejs.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="typescript" src="images/typescript.png" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/python.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="python" src="images/python.svg" height="50px" style="margin: 0 5px"> -->
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg" alt="svelte" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux.svg" alt="svelte" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/windicss.svg" alt="Windi CSS" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="25" height="25" />
