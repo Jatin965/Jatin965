@@ -21,8 +21,8 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux-action.svg" alt="redux" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="django" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="30" height="30" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="30" height="30" /> -->
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cpp.svg" alt="c++" width="30" height="30" />
@@ -43,7 +43,6 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="figma" width="30" height="30" />
 </p>
 
-<br/>
 
 ### More About Me  
 
