@@ -4,7 +4,7 @@
 
 I like to mix things up from Web Development to UI/UX Designing, Graphic Designing from scratch. I'm also thinking about trying Dev Ops and Game Development.
 
-##Technologies & Tools
+## Technologies & Tools
 
 <!-- <img align="left" alt="react" src="images/react.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="next.js" src="images/nextjs.jpg" height="50px" style="margin: 0 5px">
