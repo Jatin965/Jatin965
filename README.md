@@ -32,7 +32,7 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cucumber.svg" alt="cucumber" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="netlify" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="30" height="30" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/circleci_light.svg" alt="circleci" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg" alt="circleci" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="30" height="30" />
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="30" height="30" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="30" height="30" />
