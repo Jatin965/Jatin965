@@ -16,31 +16,31 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 <img align="left" alt="python" src="images/python.svg" height="50px" style="margin: 0 5px"> -->
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next-js" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux-action.svg" alt="redux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="django" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cpp.svg" alt="c++" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" alt="nginx" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" alt="jupyter" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cucumber.svg" alt="cucumber" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="netlify" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg" alt="firebase" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="40" height="40" />
-<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terraform.svg" alt="Terraform" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="40" height="40" /> -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="figma" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next-js" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/redux-action.svg" alt="redux" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="django" width="30" height="30" />
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cpp.svg" alt="c++" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="python" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nginx.svg" alt="nginx" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" alt="jupyter" width="30" height="30" />
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cucumber.svg" alt="cucumber" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="netlify" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg" alt="firebase" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="30" height="30" />
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="30" height="30" />
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terraform.svg" alt="Terraform" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="30" height="30" /> -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="figma" width="30" height="30" />
 </p>
 
 
@@ -53,9 +53,9 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
   
 - **🌱 I’m currently learning :**
     
-    <img src="https://img.shields.io/badge/azure%20-%240072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>    
-    <img src="https://img.shields.io/badge/Go%20-%24007d9c.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker%20-%240db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Go%20-%23007d9c.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 - **📫 How to reach me :**  
 
