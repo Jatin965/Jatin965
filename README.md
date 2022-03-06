@@ -65,7 +65,7 @@ I like to mix things up from Web Development to UI/UX Designing, Graphic Designi
 
   
   <p align="center">
-  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=jatin965&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
+  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=jatin965&count_private=true&show_icons=true&hide_border=false&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin965&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=6">
 </p>
 
